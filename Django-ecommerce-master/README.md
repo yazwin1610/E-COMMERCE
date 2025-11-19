@@ -33,5 +33,5 @@ python manage.py migrate
 python manage.py runserver
 ```
 **Contact**
---**Email: **yazwin.maryadala12@gmail.com
+**Email:**yazwin.maryadala12@gmail.com
 
